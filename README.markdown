@@ -9,8 +9,7 @@ stack trace indicating where the error occurred. Your goal is to make the
 error go away. As you fix each error, you should learn something about the
 Javascript language and functional programming in general.
 
-Your journey towards Javascript enlightenment starts in the koans/AboutExpects.js file. These
-koans will be very simple, so don't overthink them! As you progress through
+Your journey towards Javascript enlightenment starts in the koans/AboutExpects.js file. These koans will be very simple, so don't overthink them! As you progress through
 more koans, more and more Javascript syntax will be introduced which will allow
 you to solve more complicated problems and use more advanced techniques.
 
